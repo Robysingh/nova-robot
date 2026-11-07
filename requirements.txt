@@ -1,0 +1,8 @@
+# Raspberry Pi 4 (pi_code.py)
+deepface
+opencv-python
+openwakeword
+pyaudio
+pyserial
+numpy
+# The Raspberry Pi Pico code runs on MicroPython and needs no extra packages.
