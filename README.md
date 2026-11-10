@@ -1,6 +1,7 @@
 # Nova: a customisable robot companion for dementia care
 
 **MSc Computer Science dissertation, Swansea University (2025) · Mark: 87%**
+
 Supervisor: Dr Deepak Sahoo
 
 <p align="center">
@@ -13,6 +14,7 @@ Nova is a low-cost socially assistive robot dog for older adults and people livi
 I built it from scratch inside a £10 dog puppet, for about **£135** in total.
 
 **Demo videos:** [Video 1](https://www.youtube.com/shorts/z6o6pgn4Ftw) · [Video 2](https://www.youtube.com/shorts/ZIG6oqubzOs) · [Video 3](https://www.youtube.com/shorts/6OWX88xoWI4)
+
 **Portfolio:** https://robysingh.github.io
 
 ---
